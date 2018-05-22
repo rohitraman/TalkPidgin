@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437044279639",
+    "firebase_url": "https://talkpidginv2.firebaseio.com",
+    "project_id": "talkpidginv2",
+    "storage_bucket": "talkpidginv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437044279639:android:1bd550b2ba0e7ffc",
+        "android_client_info": {
+          "package_name": "com.example.darthvader.talkpidginv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437044279639-ug6lrsmirva3l7n79vlnv90sdd5l4rn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZ_yzN3RA2yYRXmiioRG2UJ_kHT66cQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

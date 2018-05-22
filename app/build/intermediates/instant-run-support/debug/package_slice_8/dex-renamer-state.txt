@@ -1,0 +1,4 @@
+#Wed Jan 24 16:14:13 IST 2018
+base.0=/home/darthvader/AndroidStudioProjects/TalkPidginv2/app/build/intermediates/transforms/dexMerger/debug/65
+path.0=classes.dex
+renamed.0=classes.dex
