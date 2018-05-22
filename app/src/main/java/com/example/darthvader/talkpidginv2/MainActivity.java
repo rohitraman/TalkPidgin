@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
     Button button;
     public static String a;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
